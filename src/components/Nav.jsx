@@ -5,7 +5,7 @@ export default function Nav() {
         <img className="troll-face" src="./troll-face.png" />
         <h1>Meme generator</h1>
       </div>
-      <p>React course - Project 3</p>
+      <p>Lag en meme i dag!</p>
     </nav>
   );
 }
