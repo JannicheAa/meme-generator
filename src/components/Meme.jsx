@@ -42,7 +42,7 @@ export default function Meme() {
             type="text"
             id="input-top"
             name="topText"
-            placeholder="Shut up"
+            placeholder="One simply cannot"
             value={meme.topText}
             onChange={handleChange}
           />
@@ -53,7 +53,7 @@ export default function Meme() {
             type="text"
             id="input-bottom"
             name="bottomText"
-            placeholder="and take my money"
+            placeholder="learn React in a day"
             value={meme.bottomText}
             onChange={handleChange}
           />
