@@ -11,7 +11,7 @@ export default function Meme() {
   const [meme, setMeme] = React.useState({
     topText: "",
     bottomText: "",
-    randomImg: "http://i.imgflip.com/1bij.jpg",
+    randomImg: "https://i.imgflip.com/1bij.jpg",
   });
 
   function handleChange(event) {
